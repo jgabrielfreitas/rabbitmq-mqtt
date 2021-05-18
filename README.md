@@ -8,6 +8,11 @@ rabbitmq image with the following plugins enabled:
 * rabbitmq_web_stomp
 * rabbitmq_prometheus
 
+# How to
+```
+$ docker pull jgabrielfreitas/rabbitmq-mqtt
+```
+
 ---
 # License
 ```
